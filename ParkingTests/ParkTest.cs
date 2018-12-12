@@ -41,7 +41,7 @@ namespace ParkingTests
         }
 
         [TestMethod]
-        public void TestParkSeveralVehicleUptoCapacity()
+        public void TestParkSeveralVehicleUpToCapacity()
         {
             ParkingLot flon = new ParkingLot(10.0);
 
